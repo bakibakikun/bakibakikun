@@ -65,4 +65,4 @@
 | https://rs.school/ Курс «JavaScript/Front-end»                  | 05/2022 - xx/2023 |
 
 ---
-### project bakibakikun.github.io/portfolio
+### project [bakibakikun.github.io/portfolio](https://bakibakikun.github.io/portfolio/)
